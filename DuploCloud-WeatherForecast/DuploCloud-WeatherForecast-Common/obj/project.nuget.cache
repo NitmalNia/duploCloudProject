@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gqs3gnmRZjdMwZ53+QEKhkepV/auP8xve+VeAp6tiHv3azot+ksoma8XKCtTbLprBOCEUcBRPExMhkFaWyzrXg==",
+  "success": true,
+  "projectFilePath": "C:\\Nitesh-Kumar\\Advance C# and Core Learning\\DuploCloud\\DuploCloud-WeatherForecast\\DuploCloud-WeatherForecast-Common\\DuploCloud-WeatherForecast-Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nitesh.kumar\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\nitesh.kumar\\.nuget\\packages\\microsoft.bcl.timeprovider\\8.0.0\\microsoft.bcl.timeprovider.8.0.0.nupkg.sha512",
+    "C:\\Users\\nitesh.kumar\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\nitesh.kumar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\nitesh.kumar\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\nitesh.kumar\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\nitesh.kumar\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\nitesh.kumar\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\nitesh.kumar\\.nuget\\packages\\polly\\8.2.0\\polly.8.2.0.nupkg.sha512",
+    "C:\\Users\\nitesh.kumar\\.nuget\\packages\\polly.contrib.waitandretry\\1.1.1\\polly.contrib.waitandretry.1.1.1.nupkg.sha512",
+    "C:\\Users\\nitesh.kumar\\.nuget\\packages\\polly.core\\8.2.0\\polly.core.8.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

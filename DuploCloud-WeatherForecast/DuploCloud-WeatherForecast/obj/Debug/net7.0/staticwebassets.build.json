@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eKCtkzFl+gRwMczQ1X3xWL2OzVghg1g2JxVcDf+nOZs=",
+  "Source": "DuploCloud-WeatherForecast",
+  "BasePath": "_content/DuploCloud-WeatherForecast",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

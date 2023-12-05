@@ -1,0 +1,12 @@
+C:\Nitesh-Kumar\Advance C# and Core Learning\DuploCloud\DuploCloud-WeatherForecast\DuploCloud-WeatherForecast-Common\bin\Debug\net7.0\DuploCloud-WeatherForecast-Common.deps.json
+C:\Nitesh-Kumar\Advance C# and Core Learning\DuploCloud\DuploCloud-WeatherForecast\DuploCloud-WeatherForecast-Common\bin\Debug\net7.0\DuploCloud-WeatherForecast-Common.dll
+C:\Nitesh-Kumar\Advance C# and Core Learning\DuploCloud\DuploCloud-WeatherForecast\DuploCloud-WeatherForecast-Common\bin\Debug\net7.0\DuploCloud-WeatherForecast-Common.pdb
+C:\Nitesh-Kumar\Advance C# and Core Learning\DuploCloud\DuploCloud-WeatherForecast\DuploCloud-WeatherForecast-Common\obj\Debug\net7.0\DuploCloud-WeatherForecast-Common.csproj.AssemblyReference.cache
+C:\Nitesh-Kumar\Advance C# and Core Learning\DuploCloud\DuploCloud-WeatherForecast\DuploCloud-WeatherForecast-Common\obj\Debug\net7.0\DuploCloud-WeatherForecast-Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nitesh-Kumar\Advance C# and Core Learning\DuploCloud\DuploCloud-WeatherForecast\DuploCloud-WeatherForecast-Common\obj\Debug\net7.0\DuploCloud-WeatherForecast-Common.AssemblyInfoInputs.cache
+C:\Nitesh-Kumar\Advance C# and Core Learning\DuploCloud\DuploCloud-WeatherForecast\DuploCloud-WeatherForecast-Common\obj\Debug\net7.0\DuploCloud-WeatherForecast-Common.AssemblyInfo.cs
+C:\Nitesh-Kumar\Advance C# and Core Learning\DuploCloud\DuploCloud-WeatherForecast\DuploCloud-WeatherForecast-Common\obj\Debug\net7.0\DuploCloud-WeatherForecast-Common.csproj.CoreCompileInputs.cache
+C:\Nitesh-Kumar\Advance C# and Core Learning\DuploCloud\DuploCloud-WeatherForecast\DuploCloud-WeatherForecast-Common\obj\Debug\net7.0\DuploCloud-WeatherForecast-Common.dll
+C:\Nitesh-Kumar\Advance C# and Core Learning\DuploCloud\DuploCloud-WeatherForecast\DuploCloud-WeatherForecast-Common\obj\Debug\net7.0\refint\DuploCloud-WeatherForecast-Common.dll
+C:\Nitesh-Kumar\Advance C# and Core Learning\DuploCloud\DuploCloud-WeatherForecast\DuploCloud-WeatherForecast-Common\obj\Debug\net7.0\DuploCloud-WeatherForecast-Common.pdb
+C:\Nitesh-Kumar\Advance C# and Core Learning\DuploCloud\DuploCloud-WeatherForecast\DuploCloud-WeatherForecast-Common\obj\Debug\net7.0\ref\DuploCloud-WeatherForecast-Common.dll
